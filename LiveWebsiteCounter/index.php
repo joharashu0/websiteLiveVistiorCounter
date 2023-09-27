@@ -13,7 +13,7 @@
         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
         font-weight: 300;
         font-size: 15px;
-        color: #8dc0e3;
+        color: #8dc0e3 !important;
     }
 
     #online-visitors-list a {
